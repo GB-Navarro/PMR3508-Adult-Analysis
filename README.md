@@ -58,7 +58,7 @@ Por fim, a avaliação dos modelos foi realizada com base em diferentes métrica
 
 Clone o repositório:  
 ```bash
- git clone https://github.com/GB-Navarro/PMR3508-Adult-Analysis
+ git clone https://github.com/GB-Navarro/PMR3508-Adult-analysis
 ```
 Acesse o diretório do projeto e execute o notebook.
 
